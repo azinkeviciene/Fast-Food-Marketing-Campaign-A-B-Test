@@ -19,9 +19,12 @@ To identify the best-performing marketing campaign based on total sales per loca
 - Confidence level: **99%** (to mitigate multiple testing problem)
 
 ## 📈 Results Summary
-- Promotion 3 showed the highest average sales per location.
-- Statistically significant differences were found between promotions.
-- Recommendation: **Roll out Promotion 3** for future campaigns.
+- **Promotion 1** had the highest average sales and significantly outperformed Promotion 2 (**p < 0.01**).
+- While Promotion 1 also outperformed Promotion 3, the difference was not statistically significant at the 99% level.
+- **Promotion 2** consistently underperformed compared to both other campaigns.
+
+### ✅ Recommendation
+Focus future marketing efforts on **Promotion 1**. Consider **Promotion 3** as a backup, and **rethink Promotion 2** due to its weak performance.
 
 ## 🛠️ Tools Used
 - SQL (BigQuery)
