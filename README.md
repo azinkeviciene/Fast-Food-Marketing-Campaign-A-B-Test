@@ -23,7 +23,7 @@ To identify the best-performing marketing campaign based on total sales per loca
 - While Promotion 1 also outperformed Promotion 3, the difference was not statistically significant at the 99% level.
 - **Promotion 2** consistently underperformed compared to both other campaigns.
 
-### ✅ Recommendation
+## ✅ Recommendation
 Focus future marketing efforts on **Promotion 1**. Consider **Promotion 3** as a backup, and **rethink Promotion 2** due to its weak performance.
 
 ## 🛠️ Tools Used
