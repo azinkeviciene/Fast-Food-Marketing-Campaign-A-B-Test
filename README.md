@@ -29,7 +29,8 @@ To identify the best-performing marketing campaign based on total sales per loca
 - Google Docs (for full report)
 
 ## 📎 Project Files
-- [📄 Full Report (Google Docs)](https://docs.google.com/document/d/1kWH5xz2Hox526uNiF_Qq6seR_1hqPGnjnjR4Bdf` – Full report
+- https://docs.google.com/document/d/1kWH5xz2Hox526uNiF_Qq6seR_1hqPGnjnjR4BYY6vyo/edit?usp=sharing – Full report
+- https://docs.google.com/spreadsheets/d/1smnA7Q4u6TEAXFauM19MiedDRvj5U2jwZw5Ubm18axw/edit?usp=sharing -  Prepared tables, chart and statistical tests (including ANOVA, Tukey HSD) used in report
 - 📁 `SQL_Queries_M3S4.sql` – SQL queries used in the analysis
 
 ## 📬 Contact
